@@ -86,7 +86,7 @@
 - **[edge-tts](https://github.com/rany2/edge-tts)** — качественный TTS при наличии сети
 
 ### Backend / API
-- **[FastAPI](https://fastapi.tiangolo.com/)** — REST API для серверной обработки (опционально)
+- **[FastAPI](https://fastapi.tiangolo.com/)** — REST API для серверной обработки
 - **SQLite** — локальная база лекарств и настроек
 
 ### Мобильное приложение
@@ -146,6 +146,6 @@ object-detection/
 
 ---
 
-## 👤 Автор
+## 👤 SenoritaLiza
 
 **Елизавета Ныркова** — [GitHub](https://github.com/SenoritaLiza)
